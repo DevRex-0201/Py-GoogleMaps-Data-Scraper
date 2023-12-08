@@ -1,4 +1,4 @@
-# Google-Maps-Scrapper
+# Py-GoogleMaps-Data-Scraper
 This Python script utilizes the Playwright library to perform web scraping and data extraction from Google Maps. It is particularly designed for obtaining information about businesses, including their name, address, website, phone number, reviews, and more.
 ## Table of Contents
 
